@@ -118,6 +118,13 @@ Jenetics - Java Genetic Algorithm Library
 
 A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
+* [mpatacchiola / dissecting-reinforcement-learning](https://github.com/mpatacchiola/dissecting-reinforcement-learning)
+
+Python code, PDFs and resources for the series of posts on Reinforcement Learning which I published on my personal blog
+
+强化学习
+
+
 ## 装箱问题
 
 * [alibaba / drl_binpacking](https://github.com/alibaba/drl_binpacking)
@@ -135,7 +142,7 @@ A variant of the Largest Area Fit First (LAFF) algorithm + brute force algorithm
 
 * [Clement05 / 3D-Bin-Packing](https://github.com/Clement05/3D-Bin-Packing)
 
-* [
+
 
 ## 机器学习框架 +课程教程
 
@@ -259,7 +266,11 @@ Redis-based components for Scrapy.
 
 Use scrapy to crawl meizitu web,and download all the pictures.
 
-* [
+* [ferventdesert / Hawk](https://github.com/ferventdesert/Hawk)
+
+visualized crawler & ETL IDE written with C#/WPF
+
+C#爬虫
 
 * [
 
