@@ -59,36 +59,6 @@ man_student Java Core Sprout : basic, concurrent, algorithm
 * [
 
 
-## JDD login problem
-
-* [JDD-Login-Risk-Detection](https://github.com/SSSSQD/JDD-Login-Risk-Detection) 
-
-* [2017-JDDJR-LOGIN-PROBLEM](https://github.com/chandlervan/2017-JDDJR-LOGIN-PROBLEM) 
-
-* [jdd_login_analyse](https://github.com/ZJUzxf/jdd_login_analyse) 
-
-## 声音问题
- 
-* [music-source-separation](https://github.com/andabi/music-source-separation) 
-
-Separating singing voice from music based on deep neural networks in Tensorflow
-
-* [anhnguyen9a7 / vietnamese-speech-to-text-wavenet](https://github.com/anhnguyen9a7/vietnamese-speech-to-text-wavenet)
-
-* [buriburisuri / speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet)
-
-Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow
-
-* [1c7 / Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download)
-
-coffee Download Youtube Subtitle (work best at Chrome + Tampermonkey)
-
-* [watson-developer-cloud / speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs)
-
-microphone Sample Node.js Application for the IBM Watson Speech to Text Service
-
-
-* [
 
 
 ## 遗传算法等启发式算法
@@ -271,6 +241,37 @@ Use scrapy to crawl meizitu web,and download all the pictures.
 visualized crawler & ETL IDE written with C#/WPF
 
 C#爬虫
+
+* [
+
+## JDD login problem
+
+* [JDD-Login-Risk-Detection](https://github.com/SSSSQD/JDD-Login-Risk-Detection) 
+
+* [2017-JDDJR-LOGIN-PROBLEM](https://github.com/chandlervan/2017-JDDJR-LOGIN-PROBLEM) 
+
+* [jdd_login_analyse](https://github.com/ZJUzxf/jdd_login_analyse) 
+
+## 声音问题
+ 
+* [music-source-separation](https://github.com/andabi/music-source-separation) 
+
+Separating singing voice from music based on deep neural networks in Tensorflow
+
+* [anhnguyen9a7 / vietnamese-speech-to-text-wavenet](https://github.com/anhnguyen9a7/vietnamese-speech-to-text-wavenet)
+
+* [buriburisuri / speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet)
+
+Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow
+
+* [1c7 / Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download)
+
+coffee Download Youtube Subtitle (work best at Chrome + Tampermonkey)
+
+* [watson-developer-cloud / speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs)
+
+microphone Sample Node.js Application for the IBM Watson Speech to Text Service
+
 
 * [
 
