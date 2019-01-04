@@ -1,10 +1,8 @@
-[Toc]
-
 # 收集的项目
 
 ## 集合类
 
-### 算法
+### 算法类
 
 * [OpenGenus / cosmos](https://github.com/OpenGenus/cosmos)
 
@@ -18,7 +16,7 @@ All Algorithms implemented in Python
 
 python中实现算法
 
-### 机器学习
+### 机器学习类
  
 * [ZuzooVn / machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
@@ -44,11 +42,11 @@ Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、G
 
 个人总结 机器学习 论文集
 
+### 计算机科学类
+
 * [leachim6 / hello-world](https://github.com/leachim6/hello-world)
 
 Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
-
-### 计算机科学
 
 各种语言 hello-world
 
@@ -122,7 +120,7 @@ Python code, PDFs and resources for the series of posts on Reinforcement Learnin
 
 ## 装箱问题
 
-python中实现
+### python中实现
 
 * [alibaba / drl_binpacking](https://github.com/alibaba/drl_binpacking)
 
@@ -132,7 +130,7 @@ python中实现
 
 A variant of the Largest Area Fit First (LAFF) algorithm
 
-JAVA中实现
+### JAVA中实现
 
 * [skjolber / 3d-bin-container-packing](https://github.com/skjolber/3d-bin-container-packing)
 
@@ -175,9 +173,13 @@ TensorFlow Tutorials with YouTube Videos
 
 An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
 
+Spandan-Madan大学
+
 * [udacity / ud120-projects](https://github.com/udacity/ud120-projects)
 
 Starter project code for students taking Udacity ud120
+
+Udacity 初始教程
 
 * [dipanjanS / practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 
@@ -186,17 +188,7 @@ Master the essential skills needed to recognize and solve complex real-world pro
 
 ## NLP
 
-###Self-Attentive
-
-* [ExplorerFreda / Structured-Self-Attentive-Sentence-Embedding](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding)
-
-An open-source implementation of the paper ``A Structured Self-Attentive Sentence Embedding'' (Lin et al., 2017).
-
-* [jx00109 / structured-self-attentive-sentence-embedding](https://github.com/jx00109/structured-self-attentive-sentence-embedding)
-
-This is an implementation of paper A-STRUCTURED-SELF-ATTENTIVE-SENTENCE-EMBEDDING by PyTorch.
-
-###库
+### 库
 
 * [NTMC-Community / MatchZoo](https://github.com/NTMC-Community/MatchZoo)
 
@@ -214,7 +206,7 @@ dizzy Industrial-strength Natural Language Processing (NLP) with Python and Cyth
 
 dizzy Models for the spaCy Natural Language Processing (NLP) library
 
-###分词
+### 分词
 
 * [AlanConstantine / PeoplesDailyNER](https://github.com/AlanConstantine/PeoplesDailyNER)
 
@@ -236,6 +228,16 @@ book A curated list of resources dedicated to Natural Language Processing (NLP)
 
 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁
 
+### Self-Attentive等论文实现
+
+* [ExplorerFreda / Structured-Self-Attentive-Sentence-Embedding](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding)
+
+An open-source implementation of the paper ``A Structured Self-Attentive Sentence Embedding'' (Lin et al., 2017).
+
+* [jx00109 / structured-self-attentive-sentence-embedding](https://github.com/jx00109/structured-self-attentive-sentence-embedding)
+
+This is an implementation of paper A-STRUCTURED-SELF-ATTENTIVE-SENTENCE-EMBEDDING by PyTorch.
+
 * [hamelsmu / Seq2Seq_Tutorial](https://github.com/hamelsmu/Seq2Seq_Tutorial)
 
 Code For Medium Article "How To Create Data Products That Are Magical Using Sequence-to-Sequence Models"
@@ -250,6 +252,8 @@ Enhancing Sentence Embedding with Generalized Pooling
 
 ## 爬虫
 
+### 框架
+
 * [binux / pyspider](https://github.com/binux/pyspider)
 
 A Powerful Spider(Web Crawler) System in Python.
@@ -261,6 +265,8 @@ Scrapy, a fast high-level web crawling & scraping framework for Python.
 * [rmax / scrapy-redis](https://github.com/rmax/scrapy-redis)
 
 Redis-based components for Scrapy.
+
+### 实战
 
 * [HunterChao / Crawler](https://github.com/HunterChao/Crawler)
 
@@ -421,6 +427,8 @@ Library and Utilities for working with ifm pmd-based 3D ToF Cameras
 
 * [gaoxiang12 / slambook](https://github.com/gaoxiang12/slambook)
 
+高翔 SLAM
+
 ## IP问题
 
 * [qiyeboy / IPProxyPool](https://github.com/qiyeboy/IPProxyPool)
@@ -431,7 +439,7 @@ Library and Utilities for working with ifm pmd-based 3D ToF Cameras
 
 Sokit is a TCP & UDP package send / receive / transfer tool
 
-* []()
+ 
 
 ## android +框架
 
@@ -505,6 +513,8 @@ A one page , two asymmetric column resume template in XeTeX that caters to an un
 * [rg3 / youtube-dl](https://github.com/rg3/youtube-dl)
 
 Command-line program to download videos from YouTube.com and other video sites
+
+youtube 下载工具
 
 * [blogwy / BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
 
