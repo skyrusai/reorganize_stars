@@ -2,66 +2,88 @@
 
 ## 集合
 
+### 算法
+
 * [OpenGenus / cosmos](https://github.com/OpenGenus/cosmos)
 
 Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum
 
-* [aosabook / 500lines](https://github.com/aosabook/500lines)
-
-500 Lines or Less
-
-* [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-
-books Freely available programming books
- 
-* [ty4z2008 / Qix](https://github.com/ty4z2008/Qix)
-
-Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
-
-* [ZuzooVn / machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-
-A complete daily plan for studying to become a machine learning engineer.
-
-* [eriklindernoren / ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-
-Machine Learning From Scratch. Bare bones Python implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from data mining to deep learning.
-
-从头学
-
-* [floodsung / Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
-
-Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
-
-论文阅读
-
-* [leachim6 / hello-world](https://github.com/leachim6/hello-world)
-
-Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
-
-* [521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
-
-分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目star
-
+算法+数据结构 各语言大集合
 
 * [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python)
 
 All Algorithms implemented in Python
 
+python中实现算法
+
+### 机器学习
+ 
+* [ZuzooVn / machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+
+A complete daily plan for studying to become a machine learning engineer.
+
+程序员 → 机器学习 学习路径
+
+* [eriklindernoren / ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+
+Machine Learning From Scratch. Bare bones Python implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from data mining to deep learning.
+
+从头学 机器学习
+
+* [floodsung / Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+
+Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+
+深度学习 论文阅读
+
+* [ty4z2008 / Qix](https://github.com/ty4z2008/Qix)
+
+Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
+
+个人总结 机器学习 论文集
+
+* [leachim6 / hello-world](https://github.com/leachim6/hello-world)
+
+Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
+
+### 计算机科学
+
+各种语言 hello-world
+
+* [521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
+
+分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目star
+
+自荐项目列表
 
 * [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes)
  
 books Computer Science Learning Notes
 
+计算机科学所需学习列表
+
 * [crossoverJie / JCSprout](https://github.com/crossoverJie/JCSprout)
 
 man_student Java Core Sprout : basic, concurrent, algorithm
 
-* [
+Java 核心知识库
 
+* [aosabook / 500lines](https://github.com/aosabook/500lines)
 
+500 Lines or Less
+
+【书籍对应】500行内的各种程序 如 OCR
+
+* [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
+books Freely available programming books
+
+各编程语言 免费教程 参考书
 
 
 ## 遗传算法等启发式算法
+
+### python库
 
 * [geatpy-dev / geatpy](https://github.com/geatpy-dev/geatpy)
 
@@ -75,6 +97,8 @@ A Genetic Algorithm Framework in Python
 
 source code from the book Genetic Algorithms with Python by Clinton Sheppard
 
+### java库
+
 * [Apress / genetic-algorithms-in-java-basics](https://github.com/Apress/genetic-algorithms-in-java-basics)
 
 Source code for 'Genetic Algorithms in Java Basics' by Lee Jacobson and Burak Kanber
@@ -83,6 +107,7 @@ Source code for 'Genetic Algorithms in Java Basics' by Lee Jacobson and Burak Ka
 
 Jenetics - Java Genetic Algorithm Library
 
+### 强化学习中的启发式
 
 * [EpistasisLab / tpot](https://github.com/EpistasisLab/tpot)
 
@@ -92,10 +117,10 @@ A Python Automated Machine Learning tool that optimizes machine learning pipelin
 
 Python code, PDFs and resources for the series of posts on Reinforcement Learning which I published on my personal blog
 
-强化学习
-
 
 ## 装箱问题
+
+python中实现
 
 * [alibaba / drl_binpacking](https://github.com/alibaba/drl_binpacking)
 
@@ -104,6 +129,8 @@ Python code, PDFs and resources for the series of posts on Reinforcement Learnin
 * [diadorer / 3d-bin-container-packing](https://github.com/diadorer/3d-bin-container-packing)
 
 A variant of the Largest Area Fit First (LAFF) algorithm
+
+JAVA中实现
 
 * [skjolber / 3d-bin-container-packing](https://github.com/skjolber/3d-bin-container-packing)
 
@@ -128,6 +155,12 @@ Simple examples to introduce PyTorch
 
 Machine Learning Deployment for Kubernetes
 
+Kubernetes上实现
+
+* [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow)
+
+An Open Source Machine Learning Framework for Everyone
+
 * [Hvass-Labs / TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
 TensorFlow Tutorials with YouTube Videos
@@ -135,10 +168,6 @@ TensorFlow Tutorials with YouTube Videos
 * [tsycnh / Keras-Tutorials](https://github.com/tsycnh/Keras-Tutorials)
 
 一个面向初学者的，友好的Keras入门教程
-
-* [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow)
-
-An Open Source Machine Learning Framework for Everyone
 
 * [Spandan-Madan / DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject)
 
@@ -155,23 +184,35 @@ Master the essential skills needed to recognize and solve complex real-world pro
 
 ## NLP
 
+###Self-Attentive
+
 * [ExplorerFreda / Structured-Self-Attentive-Sentence-Embedding](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding)
 
 An open-source implementation of the paper ``A Structured Self-Attentive Sentence Embedding'' (Lin et al., 2017).
-
-* [NTMC-Community / MatchZoo](https://github.com/NTMC-Community/MatchZoo)
-
-MatchZoo is a toolkit for text matching. It was developed to facilitate the designing, comparing, and sharing of deep text matching models.
-
-* [
 
 * [jx00109 / structured-self-attentive-sentence-embedding](https://github.com/jx00109/structured-self-attentive-sentence-embedding)
 
 This is an implementation of paper A-STRUCTURED-SELF-ATTENTIVE-SENTENCE-EMBEDDING by PyTorch.
 
+###库
+
+* [NTMC-Community / MatchZoo](https://github.com/NTMC-Community/MatchZoo)
+
+MatchZoo is a toolkit for text matching. It was developed to facilitate the designing, comparing, and sharing of deep text matching models.
+
 * [RaRe-Technologies / gensim](https://github.com/RaRe-Technologies/gensim)
 
 Topic Modelling for Humans
+
+* [explosion / spaCy](https://github.com/explosion/spaCy)
+
+dizzy Industrial-strength Natural Language Processing (NLP) with Python and Cython
+
+* [explosion / spacy-models](https://github.com/explosion/spacy-models)
+
+dizzy Models for the spaCy Natural Language Processing (NLP) library
+
+###分词
 
 * [AlanConstantine / PeoplesDailyNER](https://github.com/AlanConstantine/PeoplesDailyNER)
 
@@ -180,10 +221,6 @@ Topic Modelling for Humans
 * [fxsjy / jieba](https://github.com/fxsjy/jieba)
 
 结巴中文分词
-
-* [explosion / spaCy](https://github.com/explosion/spaCy)
-
-dizzy Industrial-strength Natural Language Processing (NLP) with Python and Cython
 
 * [FudanNLP / fnlp](https://github.com/FudanNLP/fnlp)
 
@@ -196,10 +233,6 @@ book A curated list of resources dedicated to Natural Language Processing (NLP)
 * [hankcs / HanLP](https://github.com/hankcs/HanLP)
 
 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁
-
-* [explosion / spacy-models](https://github.com/explosion/spacy-models)
-
-dizzy Models for the spaCy Natural Language Processing (NLP) library
 
 * [hamelsmu / Seq2Seq_Tutorial](https://github.com/hamelsmu/Seq2Seq_Tutorial)
 
