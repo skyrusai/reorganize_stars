@@ -1,6 +1,10 @@
 # 收集的项目
 
+
+
 ## 集合类
+
+
 
 ### 算法类
 
@@ -15,6 +19,8 @@ Algorithms that run our universe | Your personal library of every algorithm and 
 All Algorithms implemented in Python
 
 python中实现算法
+
+
 
 ### 机器学习类
  
@@ -42,7 +48,13 @@ Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、G
 
 个人总结 机器学习 论文集
 
+
+
 ### 计算机科学类
+
+* [sdmg15 / Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
+ link Some useful websites for programmers.
 
 * [leachim6 / hello-world](https://github.com/leachim6/hello-world)
 
@@ -80,8 +92,15 @@ books Freely available programming books
 
 各编程语言 免费教程 参考书
 
+* [kriadmin / 30-seconds-of-python-code](https://github.com/kriadmin/30-seconds-of-python-code)
+
+Python implementation of 30-seconds-of-code
+
+
 
 ## 遗传算法等启发式算法
+
+
 
 ### python库
 
@@ -97,6 +116,8 @@ A Genetic Algorithm Framework in Python
 
 source code from the book Genetic Algorithms with Python by Clinton Sheppard
 
+
+
 ### java库
 
 * [Apress / genetic-algorithms-in-java-basics](https://github.com/Apress/genetic-algorithms-in-java-basics)
@@ -106,6 +127,8 @@ Source code for 'Genetic Algorithms in Java Basics' by Lee Jacobson and Burak Ka
 * [jenetics / jenetics](https://github.com/jenetics/jenetics)
 
 Jenetics - Java Genetic Algorithm Library
+
+
 
 ### 强化学习中的启发式
 
@@ -118,7 +141,18 @@ A Python Automated Machine Learning tool that optimizes machine learning pipelin
 Python code, PDFs and resources for the series of posts on Reinforcement Learning which I published on my personal blog
 
 
+
+### PSO 
+
+* [therealmanalu / pso-example-java](https://github.com/therealmanalu/pso-example-java)
+
+Particle Swarm Optimization (PSO) Sample Code using Java
+
+
+
 ## 装箱问题
+
+
 
 ### python中实现
 
@@ -130,12 +164,13 @@ Python code, PDFs and resources for the series of posts on Reinforcement Learnin
 
 A variant of the Largest Area Fit First (LAFF) algorithm
 
+
+
 ### JAVA中实现
 
 * [skjolber / 3d-bin-container-packing](https://github.com/skjolber/3d-bin-container-packing)
 
 A variant of the Largest Area Fit First (LAFF) algorithm + brute force algorithm
-
 
 * [Clement05 / 3D-Bin-Packing](https://github.com/Clement05/3D-Bin-Packing)
 
@@ -173,7 +208,7 @@ TensorFlow Tutorials with YouTube Videos
 
 An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
 
-Spandan-Madan大学
+Spandan-Madan大学教程
 
 * [udacity / ud120-projects](https://github.com/udacity/ud120-projects)
 
@@ -186,7 +221,10 @@ Udacity 初始教程
 Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
 
 
+
 ## NLP
+
+
 
 ### 库
 
@@ -205,6 +243,8 @@ dizzy Industrial-strength Natural Language Processing (NLP) with Python and Cyth
 * [explosion / spacy-models](https://github.com/explosion/spacy-models)
 
 dizzy Models for the spaCy Natural Language Processing (NLP) library
+
+
 
 ### 分词
 
@@ -228,6 +268,14 @@ book A curated list of resources dedicated to Natural Language Processing (NLP)
 
 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁
 
+* [lancopku / pkuseg-python](https://github.com/lancopku/pkuseg-python)
+
+python版本：领域细分的中文分词工具，简单易用，跟现有开源工具相比提高了分词的准确率。
+
+貌似没有其他语言版本
+
+
+
 ### Self-Attentive等论文实现
 
 * [ExplorerFreda / Structured-Self-Attentive-Sentence-Embedding](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding)
@@ -250,7 +298,11 @@ Joint Neural Relation Extraction with Text and KGs
 
 Enhancing Sentence Embedding with Generalized Pooling
 
+
+
 ## 爬虫
+
+
 
 ### 框架
 
@@ -265,6 +317,8 @@ Scrapy, a fast high-level web crawling & scraping framework for Python.
 * [rmax / scrapy-redis](https://github.com/rmax/scrapy-redis)
 
 Redis-based components for Scrapy.
+
+
 
 ### 实战
 
@@ -281,9 +335,9 @@ Use scrapy to crawl meizitu web,and download all the pictures.
 
 visualized crawler & ETL IDE written with C#/WPF
 
-C#爬虫
+ C# 爬虫
 
-* [
+
 
 ## JDD login problem
 
@@ -292,6 +346,8 @@ C#爬虫
 * [2017-JDDJR-LOGIN-PROBLEM](https://github.com/chandlervan/2017-JDDJR-LOGIN-PROBLEM) 
 
 * [jdd_login_analyse](https://github.com/ZJUzxf/jdd_login_analyse) 
+
+
 
 ## 声音问题
  
@@ -314,7 +370,6 @@ coffee Download Youtube Subtitle (work best at Chrome + Tampermonkey)
 microphone Sample Node.js Application for the IBM Watson Speech to Text Service
 
 
-* [
 
 ## RSS
 
@@ -334,7 +389,6 @@ A simple Atom/RSS parsing library for PHP.
 
 Create agents that monitor and act on your behalf. Your agents are standing by!
 
-* [
 
 
 ## 前端
@@ -354,7 +408,6 @@ A JavaScript library dedicated to graph drawing
 * [vega / vega](https://github.com/vega/vega)
 
 A visualization grammar.
-
 
 * [Leaflet / Leaflet](https://github.com/Leaflet/Leaflet)
 
@@ -393,10 +446,6 @@ vulcan_salute Vue.js is a progressive, incrementally-adoptable JavaScript framew
 The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
 
 
-* [
-
-* [
-
 
 ## 阿里
 
@@ -414,7 +463,6 @@ An industrial deep learning framework for high-dimension sparse data
 
 
 
-
 ## 3D image
 
 * [ifm / ifm3d](https://github.com/ifm/ifm3d)
@@ -428,6 +476,8 @@ Library and Utilities for working with ifm pmd-based 3D ToF Cameras
 * [gaoxiang12 / slambook](https://github.com/gaoxiang12/slambook)
 
 高翔 SLAM
+
+
 
 ## IP问题
 
@@ -469,7 +519,6 @@ An Unofficial E-Hentai Application for Android
 
 closed_book "任阅" 网络小说阅读器，仿真翻页效果、txt/pdf/epub书籍阅读、Wifi传书~
 
-* [
 
 
 ## 小程序
@@ -508,6 +557,14 @@ A one page , two asymmetric column resume template in XeTeX that caters to an un
 
 自动回复Discuz论坛的隐藏帖，支持预定义回复消息、回复前检测用户登录状态。
 
+* [TheTorProject / gettorbrowser](https://github.com/TheTorProject/gettorbrowser)
+
+This is a repository to provide links for downloading Tor Browser from Github.
+
+洋葱浏览器下载
+
+
+
 ## 下载
 
 * [rg3 / youtube-dl](https://github.com/rg3/youtube-dl)
@@ -522,4 +579,16 @@ PC端下载bilibili视频，支持单P和多P
 
 
 
-* [
+## OCR
+
+* [tesseract-ocr / tesseract](https://github.com/tesseract-ocr/tesseract)
+
+Tesseract Open Source OCR Engine (main repository)
+
+
+
+## ETL 
+
+* [rocky1001 / pykylin](https://github.com/rocky1001/pykylin)
+
+Python DBAPI Driver and Sqlalchemy Dialect for Apache Kylin, the "Extreme OLAP Engine for Big Data"
