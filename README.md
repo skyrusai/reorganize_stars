@@ -589,7 +589,7 @@ Tesseract Open Source OCR Engine (main repository)
 
 * [springbootRedis](https://github.com/JayTange/springbootRedis)
 
-能跑的Redis
+能跑的RedisTemplate
 
 ## ETL 
 
