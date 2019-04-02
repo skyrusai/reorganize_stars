@@ -2,9 +2,9 @@
 
 
 
-*[## 集合类] (https://github.com/skyrusai/stars_collection/blob/master/CollectionClass.md)
+## 集合类 *[CollectionClass](https://github.com/skyrusai/stars_collection/blob/master/CollectionClass.md)
 
-## 遗传算法等启发式算法(https://github.com/skyrusai/stars_collection/blob/master/Algorithm.md)
+## 算法(https://github.com/skyrusai/stars_collection/blob/master/Algorithm.md)
 
 ## 机器学习(https://github.com/skyrusai/stars_collection/blob/master/MachineLearning.md)
 
