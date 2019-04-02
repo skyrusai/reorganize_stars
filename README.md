@@ -2,21 +2,37 @@
 
 
 
-## 集合类 [CollectionClass](https://github.com/skyrusai/stars_collection/blob/master/CollectionClass.md)
+## 集合类
 
-## 算法 [Algorithm](https://github.com/skyrusai/stars_collection/blob/master/Algorithm.md)
+ [CollectionClass](https://github.com/skyrusai/stars_collection/blob/master/CollectionClass.md)
 
-## 机器学习 [MachineLearning](https://github.com/skyrusai/stars_collection/blob/master/MachineLearning.md)
+## 算法 
 
-## 实际问题 [ActualProblem] (https://github.com/skyrusai/stars_collection/blob/master/ActualProblem.md)
+[Algorithm](https://github.com/skyrusai/stars_collection/blob/master/Algorithm.md)
 
-## 工具类 [Tools](https://github.com/skyrusai/stars_collection/blob/master/Tools.md)
+## 机器学习 
 
-## 前端 [frontend] (https://github.com/skyrusai/stars_collection/blob/master/frontend.md)
+[MachineLearning](https://github.com/skyrusai/stars_collection/blob/master/MachineLearning.md)
 
-## 兴趣 [interests] (https://github.com/skyrusai/stars_collection/blob/master/interests.md)
+## 实际问题 
 
-## 后端 [java] (https://github.com/skyrusai/stars_collection/blob/master/java.md)
+[ActualProblem](https://github.com/skyrusai/stars_collection/blob/master/ActualProblem.md)
+
+## 工具类 
+
+[Tools](https://github.com/skyrusai/stars_collection/blob/master/Tools.md)
+
+## 前端 
+
+[frontend](https://github.com/skyrusai/stars_collection/blob/master/frontend.md)
+
+## 兴趣 
+
+[interests](https://github.com/skyrusai/stars_collection/blob/master/interests.md)
+
+## 后端 
+
+[java](https://github.com/skyrusai/stars_collection/blob/master/java.md)
 
 ## 阿里
 
