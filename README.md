@@ -543,27 +543,33 @@ Manage and switch between multiple proxies quickly & easily.
 
 a web proxy tool
 
+* [miketwes / XX-Net-Linux](https://github.com/miketwes/XX-Net-Linux)
+
+XX-Net-Linux: Mini version of XX-Net for Linux user.
+
+* [mumavpn / Wuma](https://github.com/mumavpn/Wuma)
+
+手机端
+
 * [greatfire / wiki](https://github.com/greatfire/wiki)
 
 自由之门
 
-* [deedy / Deedy-Resume](https://github.com/deedy/Deedy-Resume)
 
-A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student
-
-简历模板
 
 * [lmk123 / crx-auto-reply-for-Discuz-bbs](https://github.com/lmk123/crx-auto-reply-for-Discuz-bbs)
 
 自动回复Discuz论坛的隐藏帖，支持预定义回复消息、回复前检测用户登录状态。
+
+* [shimohq / chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+
+中国程序员容易发音错误的单词
 
 * [TheTorProject / gettorbrowser](https://github.com/TheTorProject/gettorbrowser)
 
 This is a repository to provide links for downloading Tor Browser from Github.
 
 洋葱浏览器下载
-
-
 
 ## 下载
 
@@ -596,3 +602,43 @@ Tesseract Open Source OCR Engine (main repository)
 * [rocky1001 / pykylin](https://github.com/rocky1001/pykylin)
 
 Python DBAPI Driver and Sqlalchemy Dialect for Apache Kylin, the "Extreme OLAP Engine for Big Data"
+
+## Spring-mvc
+
+* [spring-projects / spring-mvc-showcase](https://github.com/spring-projects/spring-mvc-showcase)
+
+Demonstrates the features of the Spring MVC web framework
+
+## Spring-boot
+
+* [enilu / guns-lite](https://github.com/enilu/guns-lite)
+
+基于spring boot脚手架项目，spring data jpa+Spring Boot2+bootstrap/vuejs完整的后台管理系统
+
+
+## Resume
+
+* [deedy / Deedy-Resume](https://github.com/deedy/Deedy-Resume)
+
+A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student
+
+简历模板
+
+* [geekcompany / ResumeSample](https://github.com/geekcompany/ResumeSample)
+
+Resume template for Chinese programmers . 
+
+程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
+
+
+* [salomonelli / best-resume-ever](https://github.com/salomonelli/best-resume-ever)
+
+necktie briefcase Build fast rocket and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+ 
+* [resume / resume.github.com](https://github.com/resume/resume.github.com)
+
+Resumes generated using the GitHub informations
+
+* [posquit0 / Awesome-CV](https://github.com/posquit0/Awesome-CV)
+
+page_facing_up Awesome CV is LaTeX template for your outstanding job application
