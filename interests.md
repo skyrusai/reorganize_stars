@@ -35,3 +35,22 @@ XX-Net-Linux: Mini version of XX-Net for Linux user.
 * [greatfire / wiki](https://github.com/greatfire/wiki)
 
 自由之门
+
+* [yinghuocho / firefly-proxy](https://github.com/yinghuocho/firefly-proxy)
+
+A proxy software to help circumventing the Great Firewall.
+
+Firefly 萤火虫
+
+* [getlantern / download](https://github.com/getlantern/download)
+ 
+蓝灯最新版本下载 https://github.com/getlantern/download 
+
+Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest
+
+* [getlantern / lantern](https://github.com/getlantern/lantern)
+
+蓝灯最新版本下载 https://github.com/getlantern/download 
+
+Lantern Latest Download https://github.com/getlantern/download
+

@@ -1,7 +1,34 @@
+# Tools
+
+* [Ice-Hazymoon / MikuTools](https://github.com/Ice-Hazymoon/MikuTools)
+
+一个轻量的工具集合
+
+
+
+## 转换
+
+* [NoColor2 / ncmdump](https://github.com/NoColor2/ncmdump)
+
+ncmdump 转换网易NCM音乐
+
+
+## json
+
+* [lemire / simdjson](https://github.com/lemire/simdjson)
+
+Parsing gigabytes of JSON per second
+
 * [alibaba / fastjson](https://github.com/alibaba/fastjson)
 
 bullettrain_side A fast JSON parser/generator for Java. (Aliyun Data Lake Analytics https://www.aliyun.com/product/datalakeanalytics powered by fastjson )
 
+
+## 反编译
+
+* [rocky / python-uncompyle6](https://github.com/rocky/python-uncompyle6)
+
+A cross-version Python bytecode decompiler
 
 
 ## RSS

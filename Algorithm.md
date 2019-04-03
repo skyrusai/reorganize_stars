@@ -1,6 +1,11 @@
-## 遗传算法等启发式算法
+# 算法
+
+* [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+
+Interactive Online Platform that Visualizes Algorithms from Code
 
 
+## 遗传算法
 
 ### python库
 
@@ -16,8 +21,6 @@ A Genetic Algorithm Framework in Python
 
 source code from the book Genetic Algorithms with Python by Clinton Sheppard
 
-
-
 ### java库
 
 * [Apress / genetic-algorithms-in-java-basics](https://github.com/Apress/genetic-algorithms-in-java-basics)
@@ -29,8 +32,7 @@ Source code for 'Genetic Algorithms in Java Basics' by Lee Jacobson and Burak Ka
 Jenetics - Java Genetic Algorithm Library
 
 
-
-### 强化学习中的启发式
+## 强化学习中的启发式
 
 * [EpistasisLab / tpot](https://github.com/EpistasisLab/tpot)
 
@@ -41,10 +43,11 @@ A Python Automated Machine Learning tool that optimizes machine learning pipelin
 Python code, PDFs and resources for the series of posts on Reinforcement Learning which I published on my personal blog
 
 
-
-### PSO 
+## PSO 
 
 * [therealmanalu / pso-example-java](https://github.com/therealmanalu/pso-example-java)
 
 Particle Swarm Optimization (PSO) Sample Code using Java
 
+
+## 人工鱼群
