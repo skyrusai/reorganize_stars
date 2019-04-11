@@ -118,3 +118,23 @@ Library and Utilities for working with ifm pmd-based 3D ToF Cameras
 * [tesseract-ocr / tesseract](https://github.com/tesseract-ocr/tesseract)
 
 Tesseract Open Source OCR Engine (main repository)
+
+## Hash
+
+### simhash 文本hash
+
+* [skyrusai/SimHashForChinese](https://github.com/skyrusai/SimHashForChinese)
+
+SimHashForChinese simhash 中文版
+
+### phash + dhash 图hash
+
+* [xuqisheng/ImagePHash](https://github.com/xuqisheng/ImagePHash)
+
+图片汉明距相似度检测
+
+* [KilianB / JImageHash](https://github.com/KilianB/JImageHash)
+
+Perceptual image hashing library used to match similar images
+
+非常全的 image hash
